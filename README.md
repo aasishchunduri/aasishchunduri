@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Full-stack development using React, Springboot, Node.js, Express.js , Django focusing on enhancing user experience and functionality.<br><br>Looking for challenging opportunities in companies that value innovation and teamwork.<br><br>I am looking for challenging opportunities, particularly in companies that value innovation and teamwork.<br><br>I am currently learning Next.js, Go, and System Design expanding my skill set to tackle diverse project requirements.<br><br>You can ask me about anything related to Java, JavaScript, Python, Spring Boot, or React, I'm always happy to share knowledge and insights!<br><br>
+I am currently working on Full-stack development using React, Springboot, Node.js, Express.js , Django focusing on enhancing user experience and functionality.<br><br>Looking for challenging opportunities in companies that value innovation and teamwork.<br><br>I am currently learning Next.js, Go, and System Design expanding my skill set to tackle diverse project requirements.<br><br>You can ask me about anything related to Java, JavaScript, Python, Spring Boot, or React, I'm always happy to share knowledge and insights!<br><br>
 
 
 ## 🌐 Socials:
